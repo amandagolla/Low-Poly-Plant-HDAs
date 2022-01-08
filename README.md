@@ -10,7 +10,7 @@ Thank you *berry* much (dum dum tiss) for downloading this tool, feel free to us
 
 
 If you would like to integrate this into Unreal Engine
-	NOTE: they "berry" HDA requires an input of a curve, you can create this curve in Unreal Engine, however it will require a bit of work. It may be better to create this in Houdini and import it. 
+	NOTE: the "berry" HDA requires an input of a curve, you can create this curve in Unreal Engine, however it will require a bit of work. It may be easier to create this in Houdini and import it. 
 		-You will have to dramatically upscale the tool to fit with Unreal Engine's scale, you can do so by 
 			1. Right click, and "allow editing of contents"
 			2. Go to the very end of the node network, and add a transform node to upscale the mesh
